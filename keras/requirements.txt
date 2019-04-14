@@ -1,0 +1,15 @@
+flask
+gevent
+requests
+pillow
+redis
+numpy
+tensorflow
+sklearn
+scipy
+theano
+https://github.com/Lasagne/Lasagne/archive/master.zip
+keras
+ipdb
+response
+flask-cors
