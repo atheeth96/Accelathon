@@ -1,0 +1,75 @@
+#rcorners3 {
+    border-radius: 25px;
+    border: 2px solid #F8F9FB;
+    padding: 20px; 
+    width: 900px;
+    margin-left: 100px;
+    margin-top: 10px;
+    background-color: #F8F9FB
+  }
+
+  #upload-btn {
+    margin-top: 0px;
+  }
+
+  #custom-file-input {
+      margin-left: 10px;
+      width: 30%;
+      display:inline-block;
+    
+  }
+  #image-preview {
+    margin-top: 40px;
+    padding: 0px
+  }
+  .btn-primary {
+    height: 36px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-family: Raleway-SemiBold;
+    font-size: 13px;
+    color: #FFF;
+    background: #696969;
+    letter-spacing: 1px;
+    line-height: 15px;
+    border: 2px solid #696969;
+    border-radius: 40px;
+   
+    
+  }
+  .btn-primary:focus {
+    background: #696969;
+    border: 2px solid #696969;
+    color: #FFF;
+  }
+  .btn-primary:hover {
+    color: #FFF;
+    background: #696969;
+    border: 2px solid #696969;
+  }
+
+  #Progressbar {
+    display: block;
+  }
+
+  .CircularProgressbar {
+  
+    width: 15%;
+    height:15%;
+  }
+  .CircularProgressbar.inverted .CircularProgressbar-background {
+    fill: #3e98c7;
+  }
+  
+  .CircularProgressbar.inverted .CircularProgressbar-text {
+    fill: #fff;
+  }
+  
+  .CircularProgressbar.inverted .CircularProgressbar-path {
+    stroke: #fff;
+  }
+  
+  .CircularProgressbar.inverted .CircularProgressbar-trail {
+    stroke: transparent;
+  }

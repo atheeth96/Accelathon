@@ -1,0 +1,36 @@
+.topbar { 
+    height: 99px;
+    width: 1440px;
+    background-color: #f8f9fb;
+  }
+  
+  .loginicon{
+    position: absolute;
+    left: 1340px;
+    top: 20px;
+   
+  }
+  .bellicon{
+    position: absolute;
+    left: 1200px;
+    top: 35px;
+  }
+  
+  .alchemy-logo {
+    width: 154px;
+    height: 33px;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+  }
+  
+  .search{
+    position: absolute;
+    left: 400px;
+    top: 25px;
+    width: 524px;
+    height: 54px;
+    border-radius: 26px;
+    border: solid 1px #f0f0f0;
+    background-color: #ffffff;
+  }

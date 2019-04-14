@@ -1,0 +1,31 @@
+.container-fluid{
+    padding:20px;
+}
+
+ 
+.ver1{
+   margin-left: 50px;
+ }
+
+.dam-icon{
+ padding: 8px;
+}
+.edit-dam-icon{
+  color:#aaa;
+}
+
+.ver{
+ display: block;
+} 
+
+
+.setting{
+ position: absolute;
+ top: 600px;
+ left: 20px;
+}
+
+.field{
+ color: #0A1F44;
+ padding: 40px;
+}
